@@ -1,7 +1,7 @@
 # Codeceptjs_web_Copilot
 Desenvolvendo os teste do repositorio "Codeceptjs_web" com o auxilio do GitHub Copilot
 
-#Comando dados ao Copilot para gerar os teste 
+# Comando dados ao Copilot para gerar os teste 
 
 crie os codigo de teste para o seguinte scenario:
 
